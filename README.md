@@ -17,10 +17,10 @@
 
 # Set Value
   1. Open your *Discord webpage* on any Browser.
-  2. *Press F12* and go *Network Section* (If doesn't show any thing *Refresh your discord*.)
+  2. *Press F12* and go *Network Section* (If doesn't show anything in Network *Refresh your discord web in Browser*.)
   3. Find *science* Opinion in *Network Section*.
   4. In *science* section find a value name *authorization* and *copy the Value*.
-  5. Paste in *REPLIT Secrets section* Name and *TOKEN*(To make sure its correct, it will run properly.) and Value as Your *authorization VALUE*
+  5. Paste in *REPLIT Secrets section* Name and *TOKEN*(To make sure its correct, it will run properly.) and Value as Your *authorization VALUE*.
 
 # Problem
   
